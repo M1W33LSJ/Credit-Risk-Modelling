@@ -26,8 +26,3 @@ Additional model performance components (WIP):
 - Extended EL portfolio-level diagnostics (WIP)
 
 These components are partially implemented and actively being expanded in the repository.
-
-## 🏦 Real-World Relevance
-
-This project reflects the full lifecycle of credit risk model development, from application scoring to portfolio monitoring. It is structured to be directly applicable to real banking environments, ensuring interpretability, regulatory alignment, and model stability.
-The project is actively developed, with code and documentation continuously updated on GitHub.
